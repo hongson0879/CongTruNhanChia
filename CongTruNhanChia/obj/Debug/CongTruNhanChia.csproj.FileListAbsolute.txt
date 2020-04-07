@@ -1,0 +1,9 @@
+D:\ADP\CongTruNhanChia\CongTruNhanChia\bin\Debug\CongTruNhanChia.exe.config
+D:\ADP\CongTruNhanChia\CongTruNhanChia\bin\Debug\CongTruNhanChia.exe
+D:\ADP\CongTruNhanChia\CongTruNhanChia\bin\Debug\CongTruNhanChia.pdb
+D:\ADP\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.csprojAssemblyReference.cache
+D:\ADP\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.Form1.resources
+D:\ADP\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.Properties.Resources.resources
+D:\ADP\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.csproj.GenerateResource.cache
+D:\ADP\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.exe
+D:\ADP\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.pdb
